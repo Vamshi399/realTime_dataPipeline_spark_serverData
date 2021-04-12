@@ -1,0 +1,1 @@
+first download the respective tarballs and put them in the respective folders where the docker file is present.
